@@ -1,3 +1,7 @@
+Đỗ Hồng Đăng-22SE1
+
+https://chatgpt.com/c/6786423f-3ed0-8005-99b1-d364ee334203
+
 Đây là một bài kiểm thử tự động hóa cho ứng dụng web OrangeHRM sử dụng Selenium WebDriver kết hợp với TestNG. Mục đích của bài kiểm thử là xác minh chức năng đăng nhập của hệ thống.
 
 Mục đích
